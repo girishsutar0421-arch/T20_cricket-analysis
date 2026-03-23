@@ -1,2 +1,2 @@
 # T20_cricket-analysis
-data analysis and power bi dashboard
+This project focuses on analyzing T20 cricket match data to extract meaningful insights about team and player performance. Using Python libraries like Pandas and Matplotlib, I performed data cleaning, exploratory data analysis (EDA), and visualization. The analysis includes key metrics such as runs, strike rate, wickets, and economy rate, along with solving basic to advanced analytical questions. The project demonstrates my ability to work with real-world datasets and generate data-driven insights.
